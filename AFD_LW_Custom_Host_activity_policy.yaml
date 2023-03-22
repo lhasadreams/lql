@@ -1,0 +1,11 @@
+---
+title: My policy title
+enabled: false
+policyType: Violation
+alertEnabled: true
+alertProfile: LW_HE_CONTAINERS_DEFAULT_PROFILE.HE_Container_Violation
+evalFrequency: Daily
+queryId: AFD_LW_Custom_Host_Activity_WriteableRootVolumeMap
+severity: high
+description: My description
+remediation: My Policy remediation
